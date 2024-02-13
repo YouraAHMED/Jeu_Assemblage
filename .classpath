@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JeuAssemblage/src"/>
+	<classpathentry excluding="core/" kind="src" path="PiecesPuzzle/src"/>
+	<classpathentry kind="src" path="PiecesPuzzle/src/core"/>
+	<classpathentry kind="lib" path="JeuAssemblage/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="JeuAssemblage/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="JeuAssemblage/lib/piecesPuzzle-0.1.jar"/>
+	<classpathentry kind="lib" path="PiecesPuzzle/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="PiecesPuzzle/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="JeuAssemblage/build"/>
+</classpath>
